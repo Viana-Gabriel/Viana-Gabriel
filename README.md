@@ -88,7 +88,7 @@ Me chamo Gabriel Viana Santos, tenho 19 anos moro no Estado de São Paulo. Concl
 
 ### 📊 Estatísticas
 
-<p>
+<p  style="display: flex">
   <img 
     align="left" 
     alt="GitHub Stats" 

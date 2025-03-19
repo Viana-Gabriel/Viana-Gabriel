@@ -88,11 +88,12 @@ Me chamo Gabriel Viana Santos, tenho 19 anos moro no Estado de São Paulo. Concl
 
 ### 📊 Estatísticas
 
-<p  style="display: flex">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="500"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Viana-Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -101,6 +102,7 @@ Me chamo Gabriel Viana Santos, tenho 19 anos moro no Estado de São Paulo. Concl
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+    width="450"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana-Gabriel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
